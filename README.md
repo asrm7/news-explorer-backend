@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-# news-explorer-backend
-=======
 # Aplicativo News Explorer
 
 Este projeto é um serviço onde os usuários podem pesquisar artigos de notícias e salvá-los em seus perfis.
 
-O aplicativo pode ser executado em "" e acessará a API em <>
+O aplicativo pode ser executado em "https://news-explorer-backend-m2lm.onrender.com" e acessará a API em <>
 
 ## Sobre o Projeto
 Este site possui as seguintes funcionalidades principais:
@@ -40,4 +37,3 @@ POST /signup
 
 # verifica o email e a senha passados no corpo e retorna um JWT
 POST /signin
->>>>>>> 6ece515 (primeiro commit)
